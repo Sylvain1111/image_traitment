@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="img_descr">image chosen from gallery</string>
+    <string name="button_choose">Choose</string>
+    <string name="buttonApply">Apply</string>
+    <string name="button_toOriginal">original</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
