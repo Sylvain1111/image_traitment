@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
@@ -18,10 +17,8 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.Spinner;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-import static android.graphics.Color.RGBToHSV;
 import static android.graphics.Color.blue;
 import static android.graphics.Color.green;
 import static android.graphics.Color.red;
